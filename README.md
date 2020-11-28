@@ -1,4 +1,7 @@
-### Hi there 👋
+[![](https://komarev.com/ghpvc/?username=xujiaji&color=blueviolet)](https://github.com/xujiaji)
+
+[![xujiaji's github stats](https://github-readme-stats.vercel.app/api?username=xujiaji&theme=vue-dark&show_icons=true&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs)](https://github.com/xujiaji)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xujiaji&layout=compact)](https://github.com/xujiaji)
 
 <!--
 **xujiaji/xujiaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
